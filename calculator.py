@@ -15,6 +15,6 @@ def cal():
     else:
            print "NO"		
 
-if__name__ == '__main__':
+if __name__ == '__main__':
    while True:
-       cal()       
+       cal()  
